@@ -1,0 +1,11 @@
+{
+    "token": "TelegramBotToken",
+    "grupos": {
+      "group_name": "groupID"
+    },
+    "personas": {
+      "person_name": "personTG_ID"
+    },
+    "hora_envio": "10:05"
+  }
+  
